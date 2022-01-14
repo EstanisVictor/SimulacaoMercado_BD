@@ -1,0 +1,1 @@
+# SimulacaoMercado_BD
